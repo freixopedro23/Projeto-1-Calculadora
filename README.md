@@ -1,5 +1,5 @@
 # Projeto 1 Calculadora
-Projeto desenvolvido no curso Profissão: Analista de Dados v3
+## Projeto desenvolvido no curso Profissão: Analista de Dados v3
 
 Para execução da calculadora, abra o seu terminal e execute: ./calculadora.sh
 
